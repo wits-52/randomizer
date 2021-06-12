@@ -1,0 +1,15 @@
+{
+  "name": "randomizer",
+  "version": "1.0.0",
+  "description": "app to select random values from a list of values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wits-52",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
